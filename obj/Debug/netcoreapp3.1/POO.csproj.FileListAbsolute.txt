@@ -1,0 +1,13 @@
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\bin\Debug\netcoreapp3.1\POO.exe
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.json
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\obj\Debug\netcoreapp3.1\POO.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\obj\Debug\netcoreapp3.1\POO.pdb
+C:\Users\emanu\Desktop\3er Semestre\Programacion\C#\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
